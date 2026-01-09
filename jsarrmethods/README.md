@@ -13,3 +13,7 @@ Write the code to create another array from it, of objects with id and fullName,
 Sort users by age:
 
 Write the function sortByAge(users) that gets an array of objects with the age property and sorts them by age.
+
+Get average age:
+
+Write the function getAverageAge(users) that gets an array of objects with property age and returns the average age.
