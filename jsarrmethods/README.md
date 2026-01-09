@@ -9,3 +9,7 @@ Map to objects:
 You have an array of user objects, each one has name, surname and id.
 
 Write the code to create another array from it, of objects with id and fullName, where fullName is generated from name and surname.
+
+Sort users by age:
+
+Write the function sortByAge(users) that gets an array of objects with the age property and sorts them by age.
