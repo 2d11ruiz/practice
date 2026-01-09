@@ -1,0 +1,1 @@
+Exercises from JavaScript.info | https://javascript.info/array-methods#tasks
